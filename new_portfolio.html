@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Alina's Portfolio</title>
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+      integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="./assets/css/style.css" />
+  </head>
+  <body>
+    <!-- Display Toggle Navigatiion Bar -->
+    <nav class="navbar navbar-expand-md navbar-light bg-info">
+      <a class="navbar-brand" href="index.html"
+        ><h2 class="text-custom">Alina Gorelik</h2></a
+      >
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-toggle="collapse"
+        data-target="#navbarNav"
+        aria-controls="navbarNav"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ml-auto justify-content-end">
+          <li class="nav-item active">
+            <a class="nav-link" href="index.html">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Portfolio</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="contact.html">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <!-- Main Content -->
+    <main>
+      <div class="container container-fluid">
+        <div class="m-5 pt-5 pb-5">
+          <h2 class="text-info">Portfolio</h2>
+          <br />
+          <!-- Display Portfolio in a grid using 'cards' with responsive images withoverlays for labels -->
+          <div class="row justify-content-left">
+            <div class="col-lg-4 col-md-6 col-sm-12">
+              <div class="card">
+                <img
+                  alt="Travel Guide"
+                  src="./assets/images/Travel_Guide.png"
+                  class="card-img img-fluid"
+                />
+                <div class="card-body">
+                  <h4 class="card-title">Travel Guide</h4>
+
+                  <p class="card-text">
+                    Select a city to view travel attractions by category and
+                    weather forescast for the next five days.
+                  </p>
+                  <a
+                    class="card-link"
+                    href="https://agorelik2.github.io/travel_guide/"
+                    >Try it Live</a
+                  >
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 col-sm-12">
+              <div class="card">
+                <img
+                  alt="Weather Dashboard"
+                  src="./assets/images/Weather_Dashboard_2.png"
+                  class="card-img img-fluid"
+                />
+                <div class="card-body">
+                  <h4 class="card-title">Weather Dashboard</h4>
+                  <p class="card-text">
+                    View current weather conditions and five day weather
+                    forecast for a city of your choice.
+                  </p>
+                  <a
+                    class="card-link"
+                    href="https://agorelik2.github.io/weather_dashboard_app/"
+                    >Try it Live</a
+                  >
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-12">
+              <div class="card">
+                <img
+                  alt="JavaScript Quiz"
+                  src="./assets/images/JavaScript_Quiz_2.png"
+                  class="card-img img-fluid"
+                />
+                <div class="card-body">
+                  <h4 class="card-title">
+                    JavaScript Quiz
+                  </h4>
+                  <p class="card-text">
+                    Answer basic JavaScript questions in 75 sec. Bonus points
+                    are added based on your timing.
+                  </p>
+                  <a
+                    class="card-link"
+                    href="https://agorelik2.github.io/js-quiz-app"
+                    >Try it Live</a
+                  >
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-12">
+              <div class="card">
+                <img
+                  class="card-img-top img-fluid"
+                  alt="Daily Planner"
+                  src="./assets/images/Daily_Planner.png"
+                />
+                <div class="card-body">
+                  <h4 class="card-title">Daily Planner</h4>
+                  <p class="card-text">
+                    A simple daily planner application that allows a user to
+                    update and save events for each hour of the work day.
+                  </p>
+                  <a
+                    class="card-link"
+                    href="https://agorelik2.github.io/workday-schedule-app/"
+                    >Try it Live</a
+                  >
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 col-sm-12">
+              <div class="card">
+                <img
+                  alt="Password Generator"
+                  src="./assets/images/Password_Generator.png"
+                  class="card-img img-fluid"
+                />
+                <div class="card-body">
+                  <h4 class="card-title">Password Generator</h4>
+                  <p class="card-text">
+                    Generate a password based on your preferences in length and
+                    type of characters.
+                  </p>
+                  <a
+                    class="card-link"
+                    href="https://agorelik2.github.io/js_password_generator/"
+                    >Try it Live</a
+                  >
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>
