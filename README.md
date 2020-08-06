@@ -4,11 +4,11 @@
 
 ## Link to Portfolio:
 
-     https://agorelik2.github.io/alina-portfolio/
+[portfolio link](https://agorelik2.github.io/alina-portfolio/)
 
 ## Link to Repo:
 
-     https://github.com/agorelik2/alina-portfolio
+[portfolio repo link](https://github.com/agorelik2/alina-portfolio)
 
 ## Pictures of my Portfolio site
 
