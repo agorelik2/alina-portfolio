@@ -12,8 +12,8 @@
 
 ## Pictures of my Portfolio site
 
-![portfolio app img 1](images/image1.png)
-![portfolio app img 2](images/image2.png)
+![portfolio app img 1](./assets/images/image1.png)
+![portfolio app img 2](./assets/images/image2.png)
 
 ## Additions
 
