@@ -24,6 +24,15 @@ body {
   width: 90%;
   height: 100%;
 }
+.portfolio-link {
+  font-size: 1.5rem;
+}
+
+.contact-link {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
 #about-image {
   max-width: 400px;
 }
@@ -38,4 +47,25 @@ body {
 }
 .text-custom {
   color: bisque;
+  font-size: 3rem;
+}
+.text-custom:hover {
+  color: rgb(221, 124, 59);
+}
+.contact-link {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+a.contact-link:hover {
+  color: rgb(221, 124, 59);
+  text-decoration: none;
+}
+.bottom-link {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #17a2b8;
+}
+a.bottom-link:hover {
+  color: rgb(221, 124, 59);
+  text-decoration: none;
 }
