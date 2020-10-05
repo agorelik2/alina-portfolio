@@ -12,11 +12,14 @@ header h1 {
 }
 
 body {
-  background-color: #17a2b8;
+  /* background-color: #17a2b8; */
+  background-color: #84afdc;
   font-size: 0.9rem;
   width: 100%;
 }
-
+.m-heading {
+  font-family: "Roboto Slab", serif;
+}
 .container {
   /* background-color: white; */
   background-color: bisque;
@@ -37,7 +40,9 @@ body {
 #about-image {
   max-width: 400px;
 }
-
+.nav-style {
+  background-color: #84afdc;
+}
 .navbar-light .nav-item:active .nav-link {
   color: blue;
 }
@@ -46,6 +51,9 @@ body {
 .navbar-light .nav-item:hover .nav-link {
   /* color: rgb(255, 0, 179); */
   color: bisque;
+}
+.blue-color {
+  color: #4884c5;
 }
 .text-custom {
   color: bisque;
@@ -72,7 +80,7 @@ a.bottom-link:hover {
   text-decoration: none;
 }
 .card {
-  border-bottom: 8px solid #17a2b8;
+  border-bottom: 8px solid #3791f1;
 }
 .media_link {
   padding: 0.5rem;
@@ -80,7 +88,7 @@ a.bottom-link:hover {
   margin-left: 0.5rem;
   border: 2px solid #f5ba09;
   border-radius: 0.5rem;
-  color: #17a2b8;
+  color: #3791f1;
 }
 .media_link:hover {
   color: rgb(221, 124, 59);
