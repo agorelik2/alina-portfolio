@@ -30,6 +30,8 @@ body {
 }
 .portfolio-link {
   font-size: 1.5rem;
+  margin-left: 25px;
+  margin-top: 15px;
 }
 
 .contact-link {
@@ -58,6 +60,8 @@ body {
 .text-custom {
   color: bisque;
   font-size: 3rem;
+  margin-left: 25px;
+  margin-top: 15px;
 }
 .text-custom:hover {
   color: rgb(221, 124, 59);
@@ -95,6 +99,10 @@ a.bottom-link:hover {
   text-decoration: none;
 }
 
-form-group {
+.form-group {
   width: 70%;
+}
+
+.make-border {
+  border: 1px solid black;
 }
