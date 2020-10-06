@@ -1,6 +1,6 @@
 # alina-portfolio
 
-# Unit 08 Project 1 Homework: Professional Materials
+# Unit 16 Project 2 Homework: Professional Materials
 
 ## Link to Portfolio:
 
@@ -12,12 +12,13 @@
 
 ## Pictures of my Portfolio site
 
-![portfolio app img 1](./assets/images/image1.png)
-![portfolio app img 2](./assets/images/image2.png)
+![portfolio about me](./assets/images/about_me.png)
+![portfolio projects](./assets/images/portfolio.png)
+![portfolio contact](./assets/images/contact.png)
 
 ## Additions
 
-- Updated portfolio featuring project 1 and 4 of my homework assignments.
+- Updated portfolio featuring projects 1 and 2 as well as four of my homework assignments.
 
 - Updated GitHub profile with pinned repositories featuring project 1 and two exemplary assignments.
 
@@ -25,7 +26,7 @@
 
 - Updated LinkedIn profile
 
-### Updated Portfolio
+## Updated Portfolio
 
 My updated portfolio site has the following content:
 
@@ -45,14 +46,14 @@ My updated portfolio site has the following content:
 
   - Screenshot of the deployed application
 
-#### Design
+## Design
 
 - Mobile-first design
 
 - Chose a color palette for my site so it doesn't just look like
   the default bootstrap theme or an unstyled HTML site.
 
-### Updated GitHub Profile
+## Updated GitHub Profile
 
 - Update the following in my GitHub profile:
 
@@ -66,13 +67,12 @@ My updated portfolio site has the following content:
 
   - Link to your portfolio
 
+    - Pinned some repos that you want to highlight
 
-    * Pinned some repos that you want to highlight
-
-### Updated Resume
+## Updated Resume
 
 There is a new navigation link to \*.pdf file with my resume
 
-### Updated LinkedIn Profile
+## Updated LinkedIn Profile
 
 Updated my LinkedIn Profile with a bio statement, a professional photo, and links to my Github and portfolio.
