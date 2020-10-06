@@ -20,7 +20,9 @@
 
 - Updated portfolio featuring projects 1 and 2 as well as four of my homework assignments.
 
-- Updated GitHub profile with pinned repositories featuring project 1 and two exemplary assignments.
+- Updated colors, links locations and size of the images to make portfolio look more professional
+
+- Updated GitHub profile with pinned repositories featuring projects 1 and 2 as well as four of my homework assignments.
 
 - Updated resume
 
@@ -50,8 +52,7 @@ My updated portfolio site has the following content:
 
 - Mobile-first design
 
-- Chose a color palette for my site so it doesn't just look like
-  the default bootstrap theme or an unstyled HTML site.
+- Chose a color palette for my site so it doesn't just look like the default bootstrap theme or an unstyled HTML site.
 
 ## Updated GitHub Profile
 
