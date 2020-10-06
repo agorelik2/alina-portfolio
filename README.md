@@ -55,7 +55,7 @@ My updated portfolio site has the following content:
 
 ## Updated GitHub Profile
 
-- Update the following in my GitHub profile:
+- My GitHub profile has:
 
   - Profile picture
 
@@ -65,9 +65,9 @@ My updated portfolio site has the following content:
 
   - Email
 
-  - Link to your portfolio
+  - Link to my portfolio
 
-    - Pinned some repos that you want to highlight
+  - Updated pinned repos to include the latest project and homeworks
 
 ## Updated Resume
 
@@ -75,4 +75,4 @@ There is a new navigation link to \*.pdf file with my resume
 
 ## Updated LinkedIn Profile
 
-Updated my LinkedIn Profile with a bio statement, a professional photo, and links to my Github and portfolio.
+My LinkedIn Profile has a bio statement, a professional photo, and links to my Github and portfolio.
